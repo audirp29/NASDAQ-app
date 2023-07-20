@@ -1,0 +1,16 @@
+{
+  "name": "electron-quick-start",
+  "version": "1.0.0",
+  "description": "application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "romain",
+  "devDependencies": {
+    "electron": "^25.3.0"
+  },
+  "dependencies": {
+    "electron-prompt": "^1.7.0"
+  }
+}
